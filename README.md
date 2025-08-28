@@ -101,6 +101,4 @@ Through these programs, the basics of C++ pointers are clearly explained:
 - **Program 5** highlights how using pointers/references allows **real-time modification** of variables from within functions.  
 
 Together, these examples establish pointers as powerful tools in C++ for memory-level data management, function argument handling, and efficient array operations.  
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85057922/a2135a41-4c5e-4c81-a882-1c2f2246b32d/exp93.cpp)
-[4](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85057922/4b4ba00a-77c3-4cbe-800c-d43e8fb5e2bd/exp94.cpp)
-[5](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85057922/3ee9ef78-aaa5-48d5-9592-88ea183af91d/exp95.cpp)
+

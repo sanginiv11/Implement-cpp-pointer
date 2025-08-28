@@ -14,4 +14,10 @@ using namespace std;
 
     return 0;
 
+
  }
+/*OUTPUT
+10
+20
+0x61fefc
+ */
